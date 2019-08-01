@@ -1,0 +1,50 @@
+D:\C#\Banking Management System\Banking Management System\bin\Debug\Banking Management System.exe.config
+D:\C#\Banking Management System\Banking Management System\obj\Debug\Banking Management System.csprojResolveAssemblyReference.cache
+D:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.Login_Form.resources
+D:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.Properties.Resources.resources
+D:\C#\Banking Management System\Banking Management System\obj\Debug\Banking Management System.csproj.GenerateResource.Cache
+D:\C#\Banking Management System\Banking Management System\bin\Debug\Banking Management System.exe
+D:\C#\Banking Management System\Banking Management System\bin\Debug\Banking Management System.pdb
+D:\C#\Banking Management System\Banking Management System\obj\Debug\Banking Management System.exe
+D:\C#\Banking Management System\Banking Management System\obj\Debug\Banking Management System.pdb
+D:\C#\Banking Management System\Banking Management System\bin\Debug\EntityFramework.dll
+D:\C#\Banking Management System\Banking Management System\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Banking Management System\Banking Management System\bin\Debug\EntityFramework.xml
+D:\C#\Banking Management System\Banking Management System\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.Menu.resources
+D:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.newAccount.resources
+D:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.CustumerList.resources
+D:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.UpdationForm.resources
+D:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.CreditForm.resources
+D:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.TransferForm.resources
+D:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.FDForm.resources
+D:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.DebitForm.resources
+D:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.ViewFD.resources
+D:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.balanceSheet.resources
+D:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.ChangePassword.resources
+E:\C#\Banking Management System\Banking Management System\bin\Debug\Banking Management System.exe.config
+E:\C#\Banking Management System\Banking Management System\bin\Debug\Banking Management System.exe
+E:\C#\Banking Management System\Banking Management System\bin\Debug\Banking Management System.pdb
+E:\C#\Banking Management System\Banking Management System\bin\Debug\EntityFramework.dll
+E:\C#\Banking Management System\Banking Management System\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#\Banking Management System\Banking Management System\bin\Debug\EntityFramework.xml
+E:\C#\Banking Management System\Banking Management System\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#\Banking Management System\Banking Management System\obj\Debug\Banking Management System.csprojAssemblyReference.cache
+E:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.balanceSheet.resources
+E:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.ChangePassword.resources
+E:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.CreditForm.resources
+E:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.CustumerList.resources
+E:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.DebitForm.resources
+E:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.FDForm.resources
+E:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.Login_Form.resources
+E:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.Menu.resources
+E:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.newAccount.resources
+E:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.Properties.Resources.resources
+E:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.TransferForm.resources
+E:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.UpdationForm.resources
+E:\C#\Banking Management System\Banking Management System\obj\Debug\Banking_Management_System.ViewFD.resources
+E:\C#\Banking Management System\Banking Management System\obj\Debug\Banking Management System.csproj.GenerateResource.cache
+E:\C#\Banking Management System\Banking Management System\obj\Debug\Banking Management System.csproj.CoreCompileInputs.cache
+E:\C#\Banking Management System\Banking Management System\obj\Debug\Banking Management System.csproj.CopyComplete
+E:\C#\Banking Management System\Banking Management System\obj\Debug\Banking Management System.exe
+E:\C#\Banking Management System\Banking Management System\obj\Debug\Banking Management System.pdb
